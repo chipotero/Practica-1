@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+    <producto id="1">
+        <nombre>Smartphone</nombre>
+        <precio>15000</precio>
+        <cantidad>10</cantidad>
+        <imagen>https://cdn.pixabay.com/photo/2017/07/02/16/56/iphone-2464968_1280.png</imagen>
+    </producto>
+    <producto id="2">
+        <nombre>Tablet</nombre>
+        <precio>8000</precio>
+        <cantidad>15</cantidad>
+        <imagen>https://www.bhphotovideo.com/images/images2500x2500/samsung_sm_t713nzkexar_32gb_galaxy_tab_s2_1245718.jpg</imagen>
+    </producto>
+    <producto id="3">
+        <nombre>Monitor</nombre>
+        <precio>7000</precio>
+        <cantidad>12</cantidad>
+        <imagen>https://www.electrical-deals.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/7/27UK650-W-front.jpg</imagen>
+    </producto>
+    <producto id="4">
+        <nombre>Teclado</nombre>
+        <precio>2000</precio>
+        <cantidad>20</cantidad>
+        <imagen>https://pcredcom.com/images/product/import/1/7/5/6/7/17567_2.jpg</imagen>
+    </producto>
+    <producto id="5">
+        <nombre>Mouse</nombre>
+        <precio>1000</precio>
+        <cantidad>25</cantidad>
+        <imagen>https://www.quietpc.com/images/products/logitech-b100-large.jpg</imagen>
+    </producto>
+</productos>
